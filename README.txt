@@ -1,6 +1,3 @@
-unga phone solunga.............
-6374925085
-wait 5min
 ## 
 
 python 3.7
